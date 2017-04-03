@@ -18,7 +18,7 @@
 
     "js": {
       "src": "javascripts",
-      "dest": "javascripts",
+      "dest": "js",
       "entries": {
         "app": ["./app.js"]
       },
@@ -31,7 +31,7 @@
     },
     "css": {
       "src": "stylesheets",
-      "dest": "stylesheets",
+      "dest": "css",
       "autoprefixer": {
         "browsers": ["last 3 versions"]
       },
